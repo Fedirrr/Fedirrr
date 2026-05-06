@@ -1,38 +1,38 @@
 # Hi there 👋
-
-I'm **Fedir Pavlyshynets**, a Software Engineer with 6+ years of experience, based in Budapest, Hungary.  
-My main tech stack: React, Next.js, TypeScript, Node.js, Express.js, Nest.js.
+I'm **Fedir Pavlyshynets**, a Full-Stack Developer with 6+ years of experience, based in Budapest, Hungary.  
+My main tech stack: React, Next.js, TypeScript, Node.js, NestJS, D3.js, Prisma ORM.
 
 ## 👨‍💻 About My Experience
-Over the past 6+ years, I've built and scaled production-grade web applications across frontend, backend, and Web3 domains. Starting in EdTech and B2B platforms, I honed skills in real-time collaboration tools, CMS integrations (like Contentful), and performance optimizations—boosting load times, accessibility (WCAG/ARIA compliance), and conversions through A/B testing and CI/CD automation.
 
-Diving into Web3, I've contributed to high-stakes blockchain projects: from custom Layer 1 chains handling 8M+ transactions and 200k+ daily activity at Gunzilla, to cross-chain bridges (Solana ↔ Ethereum), wallet integrations (MetaMask, WalletConnect, Phantom, Solflare), and token launches on Binance. At Vareger's TransaTron, I led MVP delivery for TRON infrastructure, cutting fees by 60% via smart abstractions.
+Over 6+ years I've built and scaled production-grade web applications across frontend, backend, and Web3 domains.
 
-I've thrived in remote, cross-functional teams—leading code reviews, mentoring juniors, enforcing standards, and driving decisions in Agile environments. Passionate about clean, maintainable code that delivers real impact, whether optimizing ticketing systems for 10% sales uplift or securing dApps against vulnerabilities.
+Started in EdTech and B2B platforms — real-time collaboration tools (WebSockets, canvas editors), CMS integrations (Contentful), Redis caching, D3.js dashboards, and performance optimizations that cut load times by 40% and boosted conversions by 10% through A/B testing and CI/CD automation.
+
+Moved into Web3: contributed to high-stakes blockchain projects at Gunzilla Games — custom L1 chain handling 8M+ transactions, cross-chain bridge (Solana ↔ Ethereum), wallet integrations (MetaMask, WalletConnect, Phantom, Solflare), and a native token launch on Binance. Built transaction analytics views with D3.js v7 for the blockchain explorer.
+
+At TransaTron I led MVP delivery for TRON infrastructure — staking dashboard with D3.js v7 real-time charts, Zustand-managed client state, crypto wallet with automatic fee abstraction (60% cost reduction), and a reusable UI component library adopted across products. Full-stack: NestJS + Prisma ORM backend deployed on AWS ECS, assets on S3 + CloudFront.
+
+Led code reviews, mentored juniors, owned CI/CD pipelines, and drove architecture decisions in remote cross-functional Agile teams.
 
 ## 🔭 Currently working on ...
-- **TransaTron** at Vareger: A non-custodial infrastructure service for the TRON network that enables seamless transactions without holding TRX. I delivered the core MVP, designed scalable frontend architecture for high-throughput transactions, and built a reusable UI library adopted across products—achieving up to 60% fee reductions via USDT abstraction.
+- **TransaTron** at Vareger: Non-custodial infrastructure for the TRON network — seamless USDT transactions without holding TRX. Led full MVP delivery: staking dashboard, crypto wallet, reusable UI library, NestJS backend, AWS infrastructure.
 
 ## 📫 How to reach me ...
-- 📧 Email: [fedyapavlyshynets@gmail.com](mailto:fedyapavlyshynets@gmail.com)
-- 📱 Phone: (+36) 70-224-0684
+- 📧 [fedyapavlyshynets@gmail.com](mailto:fedyapavlyshynets@gmail.com)
+- 📱 (+36) 70-224-0684
 - 🔗 [LinkedIn](https://linkedin.com/in/pvlshnts)
-- 🔗 [My portfolio](https://my-portfolio-cyan-eight-42.vercel.app/)
 
 ## 🛠️ Tech Stack
+
 | Category | Technologies |
 |----------|--------------|
-| **Frontend** | React, Next.js, TypeScript, Redux, MobX, SolidJS |
-| **Backend/API** | Node.js, Express.js, Nest.js, Apollo GraphQL, REST, Axios |
-| **Styling** | Tailwind CSS, Chakra UI, Material UI, Styled Components |
-| **Web3/Blockchain** | MetaMask, WalletConnect, Phantom, Solflare, Web3.js, Ethers.js, Solana Web3.js, Wagmi, Viem |
-| **Tools & Testing** | Jest, React Testing Library, Cypress, GitHub Actions (CI/CD), Docker |
-| **Other** | GSAP, Three.js, Framer Motion, React-Konva, Contentful, SonarQube, Jira, Trello |
+| **Frontend** | React 19, Next.js, TypeScript, D3.js v7, TailwindCSS, TanStack Query, TanStack Table, Zustand, Redux, MobX |
+| **Backend** | Node.js, NestJS, Express.js, REST API, Apollo GraphQL, WebSockets |
+| **Database & ORM** | PostgreSQL, MongoDB, Prisma ORM, Redis |
+| **Web3/Blockchain** | Ethers.js, Web3.js, Wagmi, viem, solana/web3.js, MetaMask, WalletConnect, Phantom, Solflare, TronLink, Ledger SDK |
+| **Cloud & DevOps** | AWS (S3, EC2, ECS, CloudFront), Docker, GitHub Actions, CI/CD |
+| **Tools & Testing** | Jest, React Testing Library, Storybook, Optimizely, Jira, Agile/Scrum |
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
-<!---
-Thanks for checking out my profile! Feel free to get in touch if you'd like to chat about code, crypto, or coffee. ☕
--->
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
